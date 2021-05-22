@@ -3,19 +3,15 @@
 
 
 <p align="center">
-<a><img src="https://img.shields.io/badge/Retrofit-For--Network-lightgrey"></a>
-<a><img src="https://img.shields.io/badge/Kotlin--Dsl-For--Dependencies-red"></a>
-<a><img src="https://img.shields.io/badge/Hilt-Dependency%20Injection-green"></a>
+<a><img src="https://img.shields.io/badge/oops-interface-orange"></a>
+<a><img src="https://img.shields.io/badge/Language-Java-blue"></a>
+<a><img src="https://img.shields.io/badge/di-constructor%20injection-red"></a>
 </p>
 
 <p align="center"><a><img align="left" src="https://github.com/devrath/devrath/blob/master/images/description.png" width="60" height="60" alt="Description" title="Description"></a></p> 
-This project demonstrates how to use interface practically in real world examples 
+This project demonstrates how to use interface practically in real world examples. Check wiki tab above to acces the documentation 
+
 
 ---
-
-
-<p align="center">
-<a><img src="https://forthebadge.com/images/badges/built-for-android.svg"></a>
-</p>
 
 
