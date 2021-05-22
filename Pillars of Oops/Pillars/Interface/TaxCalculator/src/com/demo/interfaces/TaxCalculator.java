@@ -1,4 +1,4 @@
-package com.demo;
+package com.demo.interfaces;
 
 /** Interface determines what needs to be done
  *

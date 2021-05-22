@@ -1,7 +1,9 @@
-package com.demo;
+package com.demo.concreteImpl;
+
+import com.demo.interfaces.TaxCalculator;
 
 /** This class is used to calculate the tax **/
-public class TaxCalculator2021 implements TaxCalculator{
+public class TaxCalculator2021 implements TaxCalculator {
 
     // Taxable Income
     private double taxableIncome;

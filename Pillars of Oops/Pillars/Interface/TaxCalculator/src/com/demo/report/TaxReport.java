@@ -1,4 +1,6 @@
-package com.demo;
+package com.demo.report;
+
+import com.demo.interfaces.TaxCalculator;
 
 /** TaxReport class uses the tax calculator to calculate tax
  *  We want the TaxReport class not to be dependent on concrete representation of TaxCalculator

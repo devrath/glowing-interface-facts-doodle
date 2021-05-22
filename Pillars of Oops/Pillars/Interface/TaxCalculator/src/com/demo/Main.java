@@ -1,5 +1,9 @@
 package com.demo;
 
+import com.demo.concreteImpl.TaxCalculator2021;
+import com.demo.concreteImpl.TaxCalculator2022;
+import com.demo.report.TaxReport;
+
 public class Main {
     public static void main(String[] args) {
         var taxableIncome = 100_000;
