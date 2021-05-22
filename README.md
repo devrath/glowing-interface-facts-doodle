@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"><a><img align="left" src="https://github.com/devrath/devrath/blob/master/images/description.png" width="60" height="60" alt="Description" title="Description"></a></p> 
-This project demonstrates how to use interface practically in real world examples. Check wiki tab above to acces the documentation 
+This project demonstrates how to use interface practically in real-world examples. Check the wiki tab above to access the documentation 
 
 
 ---
