@@ -17,7 +17,7 @@ public class TaxCalculator2022 implements TaxCalculator {
      */
     @Override
     public double calculateTax() {
-        // 30% Tax
+        // 40% Tax
         return taxableIncome * 0.4;
     }
 
