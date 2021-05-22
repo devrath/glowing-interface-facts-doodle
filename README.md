@@ -1,4 +1,4 @@
-![pillars of oops](https://github.com/devrath/glowing-oops-pillars-doodle/blob/main/Pillars%20of%20Oops/images/pillars.png)
+![pillars of oops](https://github.com/devrath/glowing-interface-facts-doodle/blob/main/Interface/java-interfaces.jpeg)
 
 # glowing-interface-doodle
 This project demonstrates how to use the pillars of oops 
